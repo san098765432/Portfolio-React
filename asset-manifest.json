@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Portfolio-React/static/css/main.38be36b0.css",
+    "main.js": "/Portfolio-React/static/js/main.d1f749f3.js",
+    "static/media/digital-marketing-meeting.jpg": "/Portfolio-React/static/media/digital-marketing-meeting.c672fcf0b6bd0c33ff16.jpg",
+    "index.html": "/Portfolio-React/index.html",
+    "main.38be36b0.css.map": "/Portfolio-React/static/css/main.38be36b0.css.map",
+    "main.d1f749f3.js.map": "/Portfolio-React/static/js/main.d1f749f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38be36b0.css",
+    "static/js/main.d1f749f3.js"
+  ]
+}
